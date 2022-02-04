@@ -5,7 +5,11 @@ Vishwas Gandhi (vishwasgandhi.ca@gmail.com)
 
 I created two files
 1) fetch_env_variable - The code in this file will fetch the environment variables.
-2) fetch_network_interface - The code in this file will fetch the IP add, MAC add and interface name.
+   ![image](https://user-images.githubusercontent.com/35800572/152616113-72a0fa92-41f2-4cd6-a9f9-cd7088586d0a.png)
+
+3) fetch_network_interface - The code in this file will fetch the IP add, MAC add and interface name.
+   ![image](https://user-images.githubusercontent.com/35800572/152616194-29d85eee-627e-4ec2-8743-cfe52bc32ca1.png)
+
 
 GITHUB repo - https://github.com/vishwas-devops/NBS_Project_Screening.git
 
